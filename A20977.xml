@@ -1,0 +1,1879 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The miracle of the peace in Fraunce Celebrated by the ghost of the diuine Du Bartas. / Translated, by Iosuah Sylvester.</title>
+            <title>Miracle de la paix en France. English.</title>
+            <author>Du Nesme, Jean.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1599</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20977</idno>
+            <idno type="STC">STC 7353.5</idno>
+            <idno type="STC">ESTC S105425</idno>
+            <idno type="EEBO-CITATION">99841153</idno>
+            <idno type="PROQUEST">99841153</idno>
+            <idno type="VID">5715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 528:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The miracle of the peace in Fraunce Celebrated by the ghost of the diuine Du Bartas. / Translated, by Iosuah Sylvester.</title>
+                  <title>Miracle de la paix en France. English.</title>
+                  <author>Du Nesme, Jean.</author>
+                  <author>Du Bartas, Guillaume de Salluste, seigneur, 1544-1590.</author>
+                  <author>Sylvester, Josuah, 1563-1618.</author>
+               </titleStmt>
+               <extent>70 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Richard Bradocke for Iohn Browne, and are to be sold at his shop in Fleet street at the signe of the Bible,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1599.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fact an original work by Jean du Nesme, whose name appears on A2v.</note>
+                  <note>A translation of Jean Du Nesme's: Le miracle de la paix en France.</note>
+                  <note>In verse.</note>
+                  <note>Identified as STC 7353+ on film.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Wars of the Huguenots, 1562-1598 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5715:1"/>
+            <pb facs="tcp:5715:1"/>
+            <p>THE MIRACLE OF THE PEACE IN FRAVNCE.</p>
+            <p>
+               <hi>Celebrated by the Ghoſt of the Diuine</hi> DV BARTAS.</p>
+            <p>Tranſlated, By IOSVAH SYLVESTER.</p>
+            <p>¶ Imprinted at London by <hi>Richard Bradocke</hi> for <hi>Iohn Browne,</hi> and are to be ſold at his ſhop in Fleet ſtreet at the ſigne of the Bible. 1599.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:5715:2"/>
+            <pb n="3" facs="tcp:5715:2"/>
+            <head>¶ To the moſt honorable, learned, and reli<g ref="char:EOLhyphen"/>gious Gent. M. <hi>Anthony Bacone.</hi>
+            </head>
+            <lg>
+               <l>BOund by your Bountie and mine owne deſire,</l>
+               <l>To tender ſtill new tribute of my zeale</l>
+               <l>To you (your Countries watchfull Sentinell,</l>
+               <l>Whoſe wiſdome, ours and other States admire)</l>
+            </lg>
+            <lg>
+               <l>Loe here I tune vpon mine humble Lyre</l>
+               <l>Our neighbour Kingdomes vn-expected weale,</l>
+               <l>Through ſodaine ceaſing of <hi>Warres</hi> enter-deale;</l>
+               <l>As <hi>Celtike</hi> Muſes to my Muſe inspire.</l>
+            </lg>
+            <lg>
+               <l>Miraculous the Worke: and ſo his wit</l>
+               <l>That firſtly ſung this ſacred MIRACLE:</l>
+               <l>A gratious Theame (if I diſgrace not it)</l>
+            </lg>
+            <lg>
+               <l>That your graue eyes may daigne for spectacle.</l>
+               <l>What e're it be, accept it as a due</l>
+               <l>From him whoſe all doth all belong to You.</l>
+            </lg>
+            <closer>
+               <signed>Ioſuah Sylueſter.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:5715:3"/>
+            <head>A Phoneur de la Paix, chantée par Monſieur du NESME, <hi>&amp; rechantée en Anglois par</hi> Monſieur SYLVESTRE.</head>
+            <lg>
+               <l>SAns Paix rien ne ſubſiſte: en Paix tout croiſt &amp; dure,</l>
+               <l>Dieu maintient par ſa Paix le beau grand Vniuers</l>
+               <l>Et le petit, baſtis de membres ſi diuers,</l>
+               <l>Tous s'entr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ydans l'un l'autre en commune facture:</l>
+            </lg>
+            <lg>
+               <l>Elle vnit a ſon Dieu! humaine creature:</l>
+               <l>Elle emplit deſcitez les Royaumes deſeris:</l>
+               <l>Elle bride les fols, &amp; rendles champs converts</l>
+               <l>De biens donnans-plaiſirs, veſture, &amp; nouriture.</l>
+            </lg>
+            <lg>
+               <l>Enuoy-la donc, ô Dieu! a nos Princes &amp; Roys,</l>
+               <l>En nos maiſons, en nous; &amp; fay que dvne vois</l>
+               <l>Nous ſuyvions les accords de ton <hi>Neſme</hi> admirable<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a iamais ſeras loue de nos Gaulois</l>
+               <l>Parſes chantstout-divins: &amp; <hi>Sylueſtre,</hi> en Anglois</l>
+               <l>Redoubleràce loz dvn ſtile inimitable.</l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>P. CATELLE. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'atten<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> le temps.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="sonnet">
+            <pb n="5" facs="tcp:5715:3"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>
+                  <hi>HEnry,</hi> triumphant though thou wert in Warre,</l>
+               <l>Though Fate &amp; Fortitude conſpir'd thy glory,</l>
+               <l>Though thy leaſt conflicts well deſerue a Storie;</l>
+               <l>Though <hi>Mars</hi> his fame by thine be dark'ned far;</l>
+            </lg>
+            <lg>
+               <l>Though from thy cradle (infant Conquerer)</l>
+               <l>Thy martial proofes haue dimm'd <hi>Alcides</hi> praiſe;</l>
+               <l>And though with garlands of victorious Bayes</l>
+               <l>Thy Royall te<g ref="char:cmbAbbrStroke">̄</g>ples richly crowned are:</l>
+            </lg>
+            <lg>
+               <l>Yet (matchles Prince) nought haſt thou wrought ſo glorious</l>
+               <l>As this vn-lookt-for happie PEACE admired;</l>
+               <l>Wherby thy ſelfe art of thy ſelfe victorious:</l>
+            </lg>
+            <lg>
+               <l>For, while thou might'ſt the worlds throne haue aſpi<g ref="char:EOLhyphen"/>red,</l>
+               <l>Thou by this <hi>Peace</hi> thy war-like hart haſt tamed;</l>
+               <l>What greater co<g ref="char:cmbAbbrStroke">̄</g>queſt could there the<g ref="char:cmbAbbrStroke">̄</g> be named?</l>
+            </lg>
+            <pb n="6" facs="tcp:5715:4"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:5715:4"/>
+            <head>¶ THE MIRACLE OF THE <hi>PEACE in Fraunce.</hi>
+            </head>
+            <lg>
+               <l>BVt what new Sunne doth now adorne our Land,</l>
+               <l>And giues our skie ſo ſmooth &amp; ſmiling cheere?</l>
+               <l>For 'tis not <hi>Phoebus;</hi> els his golden brand</l>
+               <l>Shines brighter now then 't hath done many a yeere.</l>
+            </lg>
+            <lg>
+               <l>Sweet Angel-beauty, ſacred PEACE, heau'ns preſe<g ref="char:cmbAbbrStroke">̄</g>t;</l>
+               <l>Is't not the riſing of thy new-come ſtarre,</l>
+               <l>Which makes the aire more clere, the ſpring more pleaſant;</l>
+               <l>
+                  <hi>Zephyre</hi> more calme, &amp; <hi>Flora</hi> merrier?</l>
+            </lg>
+            <lg>
+               <l>Ah I perceiue the <hi>Oliue, Doue,</hi> and <hi>Bowe,</hi>
+               </l>
+               <l>Diuine preſages that the flood abates,</l>
+               <l>The diſmal flood where blood &amp; teares did flow,</l>
+            </lg>
+            <lg>
+               <l>And <hi>Ianus</hi> now lockes-vp his Temple gates:</l>
+               <l>
+                  <hi>Iuſtice</hi> and <hi>Faith</hi> doe kindly kiſſe each other,</l>
+               <l>And <hi>Mars</hi> appeaſ'd ſits down by <hi>Cupids</hi> mother.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="8" facs="tcp:5715:5"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Faire fruitfull daughter of th'Omnipotent,</l>
+               <l>Great Vmpire that dooſt either World ſuſtaine,</l>
+               <l>Without whoſe helpe all would returne againe</l>
+               <l>Like hideous <hi>Chaos</hi> to confuſion bent.</l>
+            </lg>
+            <lg>
+               <l>O Mother of the liuing, ſecond Nature</l>
+               <l>Of th'Elements, Fire, Water, Earth, and Aire:</l>
+               <l>O Grace (wherby me<g ref="char:cmbAbbrStroke">̄</g> climbe the heau'nly ſtaire)</l>
+               <l>Whence void, this world harbors no happy crea<g ref="char:EOLhyphen"/>ture.</l>
+            </lg>
+            <lg>
+               <l>Pillar of Lawes, Religions pedeſtall,</l>
+               <l>Hope of the godly, glorie of th'Immortall;</l>
+               <l>Honour of Cities, Pearle of kingdomes all;</l>
+            </lg>
+            <lg>
+               <l>Thou Nource of vertues, Muſes chiefe ſupportall,</l>
+               <l>Patron of Artes, of Good the ſpeciall ſpring:</l>
+               <l>All haile (dere <hi>Peace</hi>) which vs all heale doſt bring.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="9" facs="tcp:5715:5"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Come forth (dere <hi>France</hi>) fro<g ref="char:cmbAbbrStroke">̄</g> thy dark cell of mone,</l>
+               <l>Come (as new-borne) fro<g ref="char:cmbAbbrStroke">̄</g> wars vnkindly quarels,</l>
+               <l>Turne tragicke Cypres to triumphant Laurels;</l>
+               <l>Change blacke to greene, and make thy graue a Throne,</l>
+            </lg>
+            <lg>
+               <l>Let <hi>Ceres</hi> dwell vpon thy deſart Plaine,</l>
+               <l>
+                  <hi>Bacchus,</hi> and <hi>Diane,</hi> on thy hilles and groues,</l>
+               <l>
+                  <hi>Pomona</hi> in gardens, <hi>Pan</hi> among thy droues,</l>
+               <l>Secure all Roades, and ope all gates againe.</l>
+            </lg>
+            <lg>
+               <l>Reſume (O Cities) Rule and Reuerence;</l>
+               <l>Reueſt (yee States) your robes of dignitie;</l>
+               <l>Riſe-vp (yee Ruines) in faire Battlements;</l>
+            </lg>
+            <lg>
+               <l>Come Muſes, <hi>Pallas, Themis, Mercurie,</hi>
+               </l>
+               <l>Reſtore vs Lawes, Learning, &amp; Artes, &amp; Trade,</l>
+               <l>And let our Age, a golden Age be made.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="10" facs="tcp:5715:6"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Moſt Chriſtian kingdome, thou wert ne're ſo neare</l>
+               <l>Drown'd in the deep gulphes of thy Ciuill warre,</l>
+               <l>As in the tempeſt of this later iarre,</l>
+               <l>Which paſt conceit of calming did appeare:</l>
+            </lg>
+            <lg>
+               <l>When all the winds aduerſly armed were,</l>
+               <l>(Though ſelfely-foes) yet friends to worke thy wrack:</l>
+               <l>Thy ſhip a helme, thy ſelfe a heart didſt lacke,</l>
+               <l>On troubled waters toſſed here and there.</l>
+            </lg>
+            <lg>
+               <l>When from aboue (O bountie moſt admired)</l>
+               <l>Saint <hi>Hermes</hi> ſhin'd, whoſe gentle light preſageth</l>
+               <l>That then the anger of the heau'ns aſſwageth.</l>
+            </lg>
+            <lg>
+               <l>O happie PEACE! leſſe hoped then deſired:</l>
+               <l>O grace much honord, little yet conceiued;</l>
+               <l>O bleſſed guile, that thus our ſence deceiued.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="11" facs="tcp:5715:6"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Who could expect (but paſt all expectation)</l>
+               <l>So ſodaine order from ſo ſad confuſion;</l>
+               <l>So loyall friendſhip, from falſe emulation;</l>
+               <l>So firme poſſeſſion from ſo fierce intruſion?</l>
+            </lg>
+            <lg>
+               <l>Who could expect (but paſt all likelihood)</l>
+               <l>From ſuch a ſtorme, ſuch and ſo ſweet a calme;</l>
+               <l>From <hi>Fraunce</hi> her cynders, ſuch a <hi>Phoenix</hi>-brood;</l>
+               <l>
+                  <hi>Pandoras</hi> boxe to yeeld ſo rare a balme?</l>
+            </lg>
+            <lg>
+               <l>Who could expect (but paſt all humane thought)</l>
+               <l>So franke a freedome from a thrall ſo late,</l>
+               <l>Or certaine Rudder of ſo rent a State?</l>
+            </lg>
+            <lg>
+               <l>True <hi>Aeſculapius,</hi> thou alone haſt wrought</l>
+               <l>This MIRACLE, not on <hi>Hyppolitus,</hi>
+               </l>
+               <l>But on this kingdome, much more wonderous.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:5715:7"/>
+               <l>Th'vnlook't-for working of all things almoſt,</l>
+               <l>Inconſtant-conſtant, in ſucceſſion ſtrange,</l>
+               <l>Amazeth thoſe whoſe wits we chiefly boaſt,</l>
+               <l>To ſee this ſodaine vn-expected change.</l>
+            </lg>
+            <lg>
+               <l>Each feeles th'effect, but none the cauſe diſcries,</l>
+               <l>(No, though he haue with ſtarres intelligence:)</l>
+               <l>God to himſelfe reſerues ſuch myſteries,</l>
+               <l>Diſpoſing Kingdomes by his Prouidence.</l>
+            </lg>
+            <lg>
+               <l>O endles Bountie! In the midſt of Broyles</l>
+               <l>He giues vs PEACE, when warre did vs inflame,</l>
+               <l>And reaues the miſchiefe wee purſu'd ere whiles:</l>
+            </lg>
+            <lg>
+               <l>But this doth moſt extoll his glorious name,</l>
+               <l>That when moſt ſharply this extreameſt fit</l>
+               <l>Stroue to be cure-les, ſoone he cured it.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="13" facs="tcp:5715:7"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Some reaſoned thus; No violence can laſt:</l>
+               <l>Reuolted ſubiects, of themſelues will quaile:</l>
+               <l>Iuſt Soueraigntie can neuer be diſplac't;</l>
+               <l>And lawfull Princes firſt or laſt preuaile:</l>
+            </lg>
+            <lg>
+               <l>But who could thinke that the conioyned powers</l>
+               <l>Of <hi>Spaine</hi> &amp; <hi>Rome,</hi> with an exceeding number</l>
+               <l>Of rebell Cities and falſe States of ours,</l>
+               <l>So weake a King ſo little ſhould encumber?</l>
+            </lg>
+            <lg>
+               <l>Others diſcourſed in another ſort,</l>
+               <l>While all things ſorted to another end</l>
+               <l>Then their imaginations did purport.</l>
+            </lg>
+            <lg>
+               <l>That earth may know, it cannot comprehend</l>
+               <l>The ſecret depths of Iudgements all-diuine,</l>
+               <l>No: there's no ground, beginning, midſt, nor fine.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="14" facs="tcp:5715:8"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Admire we onely Gods Omni-potence,</l>
+               <l>His deep-deepe Wiſdome, &amp; his Mercie deare,</l>
+               <l>For with theſe three he hath ſurmounted here</l>
+               <l>Our hatefull foes, our hopes, and all our ſence:</l>
+            </lg>
+            <lg>
+               <l>His power appeares vpon our Lord and King</l>
+               <l>As earſt on <hi>Dauid,</hi> for they both attaine</l>
+               <l>By war-like broyles their pre-appointed raigne</l>
+               <l>Strangers, and ſubiects, and ſelues conquering</l>
+            </lg>
+            <lg>
+               <l>His Prudence ſhines, when to preſerue vs thus,</l>
+               <l>All humane wit his wiſdome doth conuince:</l>
+               <l>His gracious bountie in our bounteous Prince.</l>
+            </lg>
+            <lg>
+               <l>O various wonders! mel delicious</l>
+               <l>Flowes from a liuing Lyon, <hi>Mars</hi> is quiet,</l>
+               <l>Valour relenting, Conqueſt void of ryot.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="15" facs="tcp:5715:8"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>This was no action of a humane hand,</l>
+               <l>But th'only worke of the great Thunderer,</l>
+               <l>Who wiſe-directing all the things that are,</l>
+               <l>In vs diuinely workes his owne command.</l>
+            </lg>
+            <lg>
+               <l>Some men, vnwilling, benefit their Land,</l>
+               <l>Or vn-awares their Countries good preferre;</l>
+               <l>Another motions PEACE, but mindeth warre,</l>
+               <l>And PEACE ſucceeds what-euer drifts withſta<g ref="char:cmbAbbrStroke">̄</g>d.</l>
+            </lg>
+            <lg>
+               <l>Th'Arch-Architect, the matchles Artizan moues;</l>
+               <l>All inſtruments vnto good vſes prooues:</l>
+               <l>Man's but a wheele which that great Moouer<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>Each gracious giſt in that firſt cauſe began:</l>
+               <l>Each good's a gleame of that firſt light alone,</l>
+               <l>If Ill approach vs, onely that's our owne.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="16" facs="tcp:5715:9"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>If God dart lightning, ſoone he dewes down raine</l>
+               <l>A dreadfull Iudge, and yet a gentle father:</l>
+               <l>Whoſe wrath ſlow-kindled is ſoone quencht a<g ref="char:EOLhyphen"/>gaine,</l>
+               <l>To moue vs ſinners to repent the rather.)</l>
+            </lg>
+            <lg>
+               <l>'Gainſt hel-bred-<hi>Hydra,</hi> heau'n-born <hi>Theſeus</hi> brings</l>
+               <l>The great <hi>Alcides</hi> arme and armorie:</l>
+               <l>Of greateſt Ill, a greater goodnes ſprings;</l>
+               <l>And mercie ſtill doth rigour qualifie.</l>
+            </lg>
+            <lg>
+               <l>Ah <hi>Fraunce,</hi> ſo many monſters to ſuppreſſe</l>
+               <l>Thou had'ſt great need of Royall fortitude,</l>
+               <l>Els had'ſt thou been an <hi>Affrike</hi> wildernes.</l>
+            </lg>
+            <lg>
+               <l>O happie loſt Realme, for it hath enſu'de</l>
+               <l>That now thy gaine is more, in reſtauration;</l>
+               <l>Then was thy leſſe in all thy deſolation.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="17" facs="tcp:5715:9"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>But if I ſing great <hi>Henries</hi> fortitude,</l>
+               <l>Shall I not then be blam'd for ouer-daring?</l>
+               <l>If ouer-ſlip it, then be taxt of fearing,</l>
+               <l>Of ſilent dread, and dumbe ingratitude?</l>
+            </lg>
+            <lg>
+               <l>What ere befall, my youth-bold thoughts conclude</l>
+               <l>Like <hi>Icarus</hi> my nimble Muſe to raiſe:</l>
+               <l>And if I fall in ſuch a Sea of praiſe,</l>
+               <l>What rarer <hi>Mauſole</hi> may my bones include?</l>
+            </lg>
+            <lg>
+               <l>A ſacred rage of ſome ſweet furious flame</l>
+               <l>Will-nill. I raps me boldly to rehearſe</l>
+               <l>Great <hi>Henries</hi> Trophies, &amp; his glorious name.</l>
+            </lg>
+            <lg>
+               <l>Then roule thou Torrent of my tender verſe,</l>
+               <l>Though this high Theame deſerue a co<g ref="char:cmbAbbrStroke">̄</g>ſort rather</l>
+               <l>Of all the Muſes, and all muſickes father.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="18" facs="tcp:5715:10"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Great Prince, not pleaſd with a vain vertu-ſeeming;</l>
+               <l>Great Victor, prone to pardon humblenes,</l>
+               <l>Happie, all hap heau'ns only gift eſteeming;</l>
+               <l>Warriour, whoſe wars haue wroght his Cuntries PEACE:</l>
+            </lg>
+            <lg>
+               <l>Noble by deeds, and noble by diſcent;</l>
+               <l>Ancient <hi>Achilles,</hi> youthfull <hi>Neſtor</hi> ſage,</l>
+               <l>Whoſe ripe-experienc't courage confident,</l>
+               <l>To knocks knits counſaile, and giues rule to rage.</l>
+            </lg>
+            <lg>
+               <l>As hard in toyle, as in compaſſion ſoft,</l>
+               <l>Inur'd to that, by nature borne to this;</l>
+               <l>Who ſheds no blood, but ſheddeth teares as oft,</l>
+            </lg>
+            <lg>
+               <l>Who never fights but ſtill the field is his.</l>
+               <l>So like to <hi>Mars,</hi> that both in loues and warres,</l>
+               <l>
+                  <hi>Bellona</hi> and <hi>Venus</hi> take him ſtill for <hi>Mars.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="19" facs="tcp:5715:10"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>A ſpirit, to vertues cheerefully addreſt;</l>
+               <l>Apt to all goodnes, to no ill inclin'd;</l>
+               <l>Quicke to conceiue, ingenious to digeſt;</l>
+               <l>Whoſe tongue is ſtill true trumpet of the mind:</l>
+            </lg>
+            <lg>
+               <l>A bodie, reſting when it hath no reſt;</l>
+               <l>A waxen mildnes in a ſteely mind;</l>
+               <l>A ſoule tra-lucent in an open breſt</l>
+               <l>Which others thoughts through banie walls can find;</l>
+            </lg>
+            <lg>
+               <l>Whoſe front reflects majeſticall-humilitie,</l>
+               <l>Whoſe graue ſweet looke co<g ref="char:cmbAbbrStroke">̄</g>mandingly-intreats,</l>
+               <l>Which in one inſtant feare and loue begets:</l>
+            </lg>
+            <lg>
+               <l>A king ſtill warring to obtaine tranquilitie,</l>
+               <l>To ſaue his Country ſcorning thouſand dangers;</l>
+               <l>Mirrour of <hi>Fraunce,</hi> and miracle of ſtrangers.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="20" facs="tcp:5715:11"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>If that before thee fall rebellious Towers,</l>
+               <l>If battered walles before thy ſouldiers, loofe:</l>
+               <l>If hugeſt rockes be pearced by thy powers;</l>
+               <l>If gainſt thine armes, no armour be of proofe.</l>
+            </lg>
+            <lg>
+               <l>If that our fields flow with <hi>Iberian</hi> blood,</l>
+               <l>If that thy campe compoſde of many a <hi>Caeſar</hi>
+               </l>
+               <l>Can by no diſmall dangers be withſtood;</l>
+               <l>I ouſting with Gyants, as it were at pleaſure.</l>
+            </lg>
+            <lg>
+               <l>If loftie mountaines to thine homage vaile;</l>
+               <l>If valleys riſe to bulwarke thee about;</l>
+               <l>If for thy ſake riuers doe flow and faile;</l>
+            </lg>
+            <lg>
+               <l>'Twas neither Canons, nor our conflicts ſtout,</l>
+               <l>Nor ſtrength, nor ſtomacke got theſe victories:</l>
+               <l>No, 'twas thy preſence <hi>Henry,</hi> and thine eyes,</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="21" facs="tcp:5715:11"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>They be to blame then that thy boldnes blame,</l>
+               <l>For hauing put thy ſelfe ſo oft in danger,</l>
+               <l>Sith againſt rebels and againſt the ſtranger,</l>
+               <l>Thy looks, like lightning did thy troopes inflame.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Fraunce</hi> fought before, all bloody, faint, and lame,</l>
+               <l>Crauing thine aide to venge her hatefull wrong:</l>
+               <l>When, like a Lyon to preſerue her yong</l>
+               <l>Thou layd'ſt about thee to redeeme the ſame.</l>
+            </lg>
+            <lg>
+               <l>Then had'ſt thou cauſe to hazard ſo thy life,</l>
+               <l>In extreme perils, extreme remedies.</l>
+               <l>But ſpare thee now, thy ſtate is free from ſtrife:</l>
+            </lg>
+            <lg>
+               <l>Soueraigne, our fafetie in thy ſafetie lies.</l>
+               <l>
+                  <hi>Codrus</hi> could keepe his, onely by his death:</l>
+               <l>Thou thine, alone by thine owne liuing breath.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="22" facs="tcp:5715:12"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>What wreath were worthy to become thy crowne,</l>
+               <l>What <hi>Carr</hi>-triumphant equall with thy worth,</l>
+               <l>What marble ſtatue meet for thy renowne,</l>
+               <l>Thou that haſt raiſ'd the Lillie of the Earth?</l>
+            </lg>
+            <lg>
+               <l>What honourable Title of Addition</l>
+               <l>Doſt thou deſerue, who ioyning might with mild<g ref="char:EOLhyphen"/>nes,</l>
+               <l>Haſt ſau'd this great ſhip from a ſad perdition,</l>
+               <l>Nigh loſt in th'Ocean of warres ciuill vildnes?</l>
+            </lg>
+            <lg>
+               <l>O modern <hi>Hercules,</hi> thy Countries father,</l>
+               <l>Hope not of vs thy iuſt-deſerued meed,</l>
+               <l>Earth is too-baſe, in heau'n expect it rather.</l>
+            </lg>
+            <lg>
+               <l>Our Laurels are too-pale to crowne thy deed,</l>
+               <l>Who thus haſt ſalu'd the vniuerſall Ball,</l>
+               <l>For the health of <hi>France</hi> imports the health of all<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="23" facs="tcp:5715:12"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Pardon me <hi>(Henry)</hi> if heau'ns ſiluer raine</l>
+               <l>Dewing thy Pearles impearle mine humble laies,</l>
+               <l>And if my verſe void both of price and paine,</l>
+               <l>Preſume thy vertues paſſing-price to praiſe:</l>
+            </lg>
+            <lg>
+               <l>Pardon (great King) if that mine infant Muſe</l>
+               <l>Stutter thy name; and if with skill too-ſcant</l>
+               <l>I limne thee here, let zeale my crime excuſe;</l>
+               <l>My ſteel's attracted by thine Adamant.</l>
+            </lg>
+            <lg>
+               <l>For as the Sunne, although he doe reflect</l>
+               <l>His golden rayes on groſſer Elements,</l>
+               <l>Doth neuer ſpot his beautifull aſpect:</l>
+            </lg>
+            <lg>
+               <l>So though the praiſes of thine Excellence</l>
+               <l>Doe brightly gliſter in my gloomie ſtile,</l>
+               <l>They nothing looſe of their firſt grace the while.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="24" facs="tcp:5715:13"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Now ſith as well by conqueſt as ſucceſſion</l>
+               <l>
+                  <hi>Fraunce</hi> is thine owne; O keepe it ſtill therefore:</l>
+               <l>'Tis much to conquer, but to keepe poſſeſſion</l>
+               <l>Is full as much, and if be not more.</l>
+            </lg>
+            <lg>
+               <l>Who well would keepe ſo plentifull a portion,</l>
+               <l>Muſt ſtabliſh firſt the heau'nly diſcipline;</l>
+               <l>Then humane Lawes, reſtraining all extortion;</l>
+               <l>And princely wealth with publick weale co<g ref="char:cmbAbbrStroke">̄</g>bine.</l>
+            </lg>
+            <lg>
+               <l>A Princes ſafetie lyes in louing people;</l>
+               <l>His Fort is Iuſtice (free from ſtratagem)</l>
+               <l>Without the which ſtrong Cittadels are feeble.</l>
+            </lg>
+            <lg>
+               <l>The ſubiects loue is wonne by louing them:</l>
+               <l>Of louing them, n'-oppreſſion is the triall:</l>
+               <l>And no oppreſſion makes them euer loyall.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="25" facs="tcp:5715:13"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Bold <hi>Martialiſts,</hi> braue Impes of noble birth,</l>
+               <l>Shining in ſteele for <hi>Fraunce,</hi> and for your king:</l>
+               <l>Yee ſonnes of thoſe that heretofore did bring</l>
+               <l>Beneath their yoke, the pride of all the earth.</l>
+            </lg>
+            <lg>
+               <l>It is an honour to be high-diſcended,</l>
+               <l>But more t'haue kept ones Country and fidelity;</l>
+               <l>For our owne vertues make vs moſt co<g ref="char:cmbAbbrStroke">̄</g>mended:</l>
+               <l>And Truth's the title of all true Nobilitie.</l>
+            </lg>
+            <lg>
+               <l>Your ſhoulders ſhoard vp <hi>France,</hi> euen like to fall;</l>
+               <l>You were her <hi>Atlas, Henry Hercules:</hi>
+               </l>
+               <l>And but for you her ſhocke had ſhaken All;</l>
+            </lg>
+            <lg>
+               <l>But now ſhee ſtands ſtedfaſt on Ciuill PEACE:</l>
+               <l>Wherefore if yet your war-like heat doe-wurke,</l>
+               <l>With holy armes goe hunt the hatefull <hi>Turke.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="26" facs="tcp:5715:14"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>But you that vaunt your antique Pettigrees,</l>
+               <l>So ſtately tymbring your ſurcharged ſhields,</l>
+               <l>Perking (like Pines aboue the lower trees)</l>
+               <l>Ouer the Farmers of your neighbour fields;</l>
+            </lg>
+            <lg>
+               <l>Is't lacke of loue, or is it lacke of courage,</l>
+               <l>That holds you ſnaile-like creeping in your hou<g ref="char:EOLhyphen"/>ſes,</l>
+               <l>While ouer all your Countryes foes doe forrage,</l>
+               <l>And rebell outrage euery corner rouſes?</l>
+            </lg>
+            <lg>
+               <l>If no example of your Anceters,</l>
+               <l>Nor preſent inſtance of bright-armed Lords,</l>
+               <l>The feeble temper of your ſtomacke ſtirres,</l>
+            </lg>
+            <lg>
+               <l>If in your liues yee neuer drew your ſwords</l>
+               <l>To ſerue your King, nor quench your Countries flames,</l>
+               <l>Pardon me Nobles, I miſtooke your names.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="27" facs="tcp:5715:14"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>You ſacred Order, chargd the Church to watch</l>
+               <l>And teach the holy myſteries of heau'n,</l>
+               <l>From henceforth all ſeditious plots diſpatch,</l>
+               <l>And father-like, to all be alwaies euen.</l>
+            </lg>
+            <lg>
+               <l>Through ſuperſtition ſtirre no ſtrife againe;</l>
+               <l>Reuolt's a miſchiefe euermore pernicious:</l>
+               <l>Plucke vp abuſes, and the hurtfull graine</l>
+               <l>Sprung from the Ignorant and Auaricious.</l>
+            </lg>
+            <lg>
+               <l>Auoid Ambition (common cauſe of ſtrife)</l>
+               <l>Your reuerend robe be free from ſtaines of blood,</l>
+               <l>Preach holy doctrine, prooue it by your life:</l>
+            </lg>
+            <lg>
+               <l>Flie Idlenes, chuſe exerciſes good;</l>
+               <l>To wit, all workes of liuely faith and pietie,</l>
+               <l>So to your fold ſhall flocke the bleſt ſocietie.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="28" facs="tcp:5715:15"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>You graue aſſembly of ſage Senators,</l>
+               <l>Rights, Oracles, yee <hi>Ephori</hi> of <hi>Fraunce;</hi>
+               </l>
+               <l>Who for the States and Iuſtice maintenance,</l>
+               <l>Of Sword and Ballance are the Arbitrers:</l>
+            </lg>
+            <lg>
+               <l>That from henceforth againſt all enemies,</l>
+               <l>Our PEACE may ſeat her in a ſetled Throne;</l>
+               <l>Repreſſe the malice of all mutinies,</l>
+               <l>Which through th'aduantage of theſe times haue grown.</l>
+            </lg>
+            <lg>
+               <l>At a low tyde 'tis beſt to mend a breach</l>
+               <l>Before the flood returne with violence:</l>
+               <l>'Tis good in health to counſaile with a leach.</l>
+            </lg>
+            <lg>
+               <l>So while a People's calme from inſolence,</l>
+               <l>'Tis beſt that Rulers bridle them with awe;</l>
+               <l>And (for the future) kurbe the lewd with law.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="29" facs="tcp:5715:15"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>People, leſſe ſetled then the ſliding ſand;</l>
+               <l>More mutable then <hi>Proteus,</hi> or the Moone;</l>
+               <l>Turn'd and return'd in turning of a hand,</l>
+               <l>Like <hi>Euripus</hi> ebbe-flowing euery Noone.</l>
+            </lg>
+            <lg>
+               <l>Thou thouſand-headed head-les Monſter-moſt,</l>
+               <l>Oft ſlaine like <hi>Antheus,</hi> and as oft new riſing,</l>
+               <l>Who hard as ſteele, as light as wind art toſt;</l>
+               <l>
+                  <hi>Cameleon</hi>-like, each obiects colour pryſing.</l>
+            </lg>
+            <lg>
+               <l>Vnblind thy blind ſoule, ope thine inward ſight,</l>
+               <l>Be no more tinder of inteſtine flame,</l>
+               <l>Of all fantaſtike humours purge thy ſpright:</l>
+            </lg>
+            <lg>
+               <l>For if paſt follies vrge yet griefe and ſhame,</l>
+               <l>Loe, like Obliuions law, to cure thy paſſion,</l>
+               <l>State-ſtabling <hi>Peace</hi> brings froward minds in fa<g ref="char:EOLhyphen"/>ſhio<g ref="char:cmbAbbrStroke">̄</g>.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="30" facs="tcp:5715:16"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Engins of <hi>Vulcan,</hi> heau'n affrighting wonders.</l>
+               <l>Like brittle glaſſe the Rocks to cynders breaking;</l>
+               <l>Deafning the winds, dumbing the loudeſt thu<g ref="char:cmbAbbrStroke">̄</g>ders;</l>
+               <l>May yee be bound a thouſand yeres fro<g ref="char:cmbAbbrStroke">̄</g> ſpeaking.</l>
+            </lg>
+            <lg>
+               <l>Yee hate-peace hackſters fleſht in maſſacres,</l>
+               <l>Be you for euer baniſht from our ſoile;</l>
+               <l>Yee ſteeled tooles of ſlaughter, wounds, &amp; wars,</l>
+               <l>Be you condemn'd to hang, and ruſt a while:</l>
+            </lg>
+            <lg>
+               <l>Or (not to languiſh in ſo fruitles reſt)</l>
+               <l>Be you transform'd to husband-furniture,</l>
+               <l>To plow thoſe fields you haue ſo oft depreſt:</l>
+            </lg>
+            <lg>
+               <l>Or (if you cannot leaue your wonted vrc)</l>
+               <l>Leaue (at the leaſt) all mutinous alarmes,</l>
+               <l>And be from henceforth Iuſtice lawfull Armes.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="31" facs="tcp:5715:16"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>O <hi>Paris</hi> know thy ſelfe, and know thy maſter</l>
+               <l>As well thy heau'nly as thine earthly guider:</l>
+               <l>And be not like a horſe, who proud of paſture</l>
+               <l>Breakes bit, &amp; raines, and caſt his cunning rider.</l>
+            </lg>
+            <lg>
+               <l>Who nill be ſubiects, ſhall be ſlaues in fine:</l>
+               <l>Who Kings refuſe, ſhall haue a Tyrant Lord:</l>
+               <l>Who are not moou'd with the mild rods diuine,</l>
+               <l>Shall feele the furie of heau'ns venging ſword.</l>
+            </lg>
+            <lg>
+               <l>Thy greatnes ſta<g ref="char:cmbAbbrStroke">̄</g>ds on theirs that weare the crown,</l>
+               <l>Whereof th'haſt had now ſeuentie ſauing ſeuen;</l>
+               <l>Thinke one ſufficient ſoone to pull thee down:</l>
+            </lg>
+            <lg>
+               <l>Kings greatnes ſtands on the great King of heau'n.</l>
+               <l>Knowing theſe two, then <hi>Paris</hi> know thy ſelfe,</l>
+               <l>By warres afflictions, and by PEACES wealth.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="32" facs="tcp:5715:17"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Swell not in pride O <hi>Paris</hi> (princely dame)</l>
+               <l>To be chiefe Citie and thy Soueraignes Throne:</l>
+               <l>Citie? nay modell of this totall Frame,</l>
+               <l>A mightie kingdome of thy ſelfe alone:</l>
+            </lg>
+            <lg>
+               <l>The ſcourge that lately with paternall hand</l>
+               <l>For thine amendment did ſo mildly beat-thee,</l>
+               <l>If any more againſt thy kings thou ſtand,</l>
+               <l>Shall prooue that then God did but only threat-thee.</l>
+            </lg>
+            <lg>
+               <l>Wert thou a hundred thouſand fold more mightie,</l>
+               <l>Who in th'Olympike court co<g ref="char:cmbAbbrStroke">̄</g>mands the thu<g ref="char:cmbAbbrStroke">̄</g>ders,</l>
+               <l>In his leſt wrath can wrack thee (moſt almighty)</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Thebes, Babel, Rome,</hi> thoſe proud heau'n-daring wo<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ders,</l>
+               <l>Low vnder ground in duſt and aſhes lie,</l>
+               <l>For earthly kingdomes euen as men doe die.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="33" facs="tcp:5715:17"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>But O my ſorrowes! whither am I toſt?</l>
+               <l>What? ſhall I bloodie ſweet ASTREAS ſongs?</l>
+               <l>Re-open wounds that are now heald almoſt,</l>
+               <l>And new-remember nigh-forgotten wrongs?</l>
+            </lg>
+            <lg>
+               <l>Sith ſtormes are calmed by a gentle ſtarre,</l>
+               <l>Forget we (Muſe) all former furie-moods,</l>
+               <l>And all the tempeſt of our viper-warre;</l>
+               <l>Drowne we thoſe thoughts in deep-deepe <hi>Lethe</hi> floods.</l>
+            </lg>
+            <lg>
+               <l>O but (alas) I cannot not retaine</l>
+               <l>So great, notorious, common miſeries.</l>
+               <l>Nor hide my plaint, nor hold my weeping raine:</l>
+            </lg>
+            <lg>
+               <l>But 'mid theſe hideous helliſh outrages,</l>
+               <l>I'le ſhow and prooue by this ſtrange ſpectacle,</l>
+               <l>Our ciuill PEACE, a ſacred Miracle.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="34" facs="tcp:5715:18"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>As he that ſcap't from ſhip wrack on a planke,</l>
+               <l>Doubts of his health, and hardly yet beleeues</l>
+               <l>(Still faintly ſhiuering on the feare-les banke)</l>
+               <l>That (through that fraile helpe) certainly he liues:</l>
+            </lg>
+            <lg>
+               <l>As he that new freed from ſtrange ſeruitude</l>
+               <l>Returnes againe to tread his natiue allies,</l>
+               <l>Seemes ſtill to feare his Patrons rigour rude,</l>
+               <l>And ſeemes ſtill tugging, chayned in the Gallies.</l>
+            </lg>
+            <lg>
+               <l>So alwaies ruth, ruine, and rage, and horror</l>
+               <l>Of troubles paſt doe haunt me euery where,</l>
+               <l>And ſtill meete furies and gaſtly terror;</l>
+            </lg>
+            <lg>
+               <l>Then to my ſelfe thus raue I, (rapt with feare)</l>
+               <l>From pleaſures paſt if preſent ſorrow ſpring,</l>
+               <l>Why ſhould not paſt cares preſent co<g ref="char:cmbAbbrStroke">̄</g>fort bring?</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="35" facs="tcp:5715:18"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>We muſt now vpbraid each others crimes,</l>
+               <l>Committed wrongly in the time of warre;</l>
+               <l>For we haue all (alas) too often times</l>
+               <l>Prouok't the vengeance of the Lord too farre:</l>
+            </lg>
+            <lg>
+               <l>Some robbing Iuſtice vnder maske of Reaſon;</l>
+               <l>Some blowing coles to kindle-vp Sedition;</l>
+               <l>Some 'againſt their King atte<g ref="char:cmbAbbrStroke">̄</g>pting open Treaſon;</l>
+               <l>Some Godding fortunen (Idol of Ambition)</l>
+            </lg>
+            <lg>
+               <l>Alas, we know our cauſe of maladie,</l>
+               <l>All apt t'accuſe, but none to clenſe th'impure;</l>
+               <l>Each doth rebuke, but none doth remedie:</l>
+            </lg>
+            <lg>
+               <l>To know a griefe it is but halfe a cure:</l>
+               <l>Is it our ſinnes? let's purge away that bane;</l>
+               <l>For what helps Phiſicke if it be not tane?</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="36" facs="tcp:5715:19"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Who cloake their crimes in hoods of holines,</l>
+               <l>Are double villaines: and the Hypocrite</l>
+               <l>Is moſt-moſt odious in Gods glorious ſight,</l>
+               <l>That takes his name to couer wickednes.</l>
+            </lg>
+            <lg>
+               <l>Prophane Ambition, blind and irreligious,</l>
+               <l>Inqueſt of kingdomes holding nothing holy;</l>
+               <l>Think'ſt thou th'Eternall blind (as thou in folly)</l>
+               <l>Or weake to puniſh monſters ſo prodigious?</l>
+            </lg>
+            <lg>
+               <l>O execrable vizard, canſt thou hide thee</l>
+               <l>From th'All-pierce-eye? are treaſon, rape, &amp; mur<g ref="char:EOLhyphen"/>der</l>
+               <l>Effects of faith, or of the Furies-order?</l>
+            </lg>
+            <lg>
+               <l>Thy vaile is rent, the rudeſt haue deſcride thee.</l>
+               <l>'Tis now apparant to each plaine Opinion,</l>
+               <l>Thy hot Deuotion hunted but Dominion.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="37" facs="tcp:5715:19"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>'Tis ſtrange to ſee the heat of Ciuill brands,</l>
+               <l>For when we arme vs brother againſt brother,</l>
+               <l>O then how ready are our hearts and hands:</l>
+               <l>And wits awake to ruine one another!</l>
+            </lg>
+            <lg>
+               <l>But come to counter-min 'gainſt ſecret treaſon,</l>
+               <l>Or force the forces of a ſtranger foe,</l>
+               <l>Alas, how ſhallow are we then in reaſon,</l>
+               <l>How cold in courage, and in camping ſlow?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Franunce</hi> only ſtriues to triumph ouer <hi>Fraunce:</hi>
+               </l>
+               <l>With ſelfe-kill ſwords to cut each others throat,</l>
+               <l>What ſwarmes of ſoldiers euery where doe float,</l>
+            </lg>
+            <lg>
+               <l>To ſpend and ſpoyle a kingdomes maintenance?</l>
+               <l>But ſaid I ſoldiers? ah I bluſh for ſhame,</l>
+               <l>To giue baſe the eues the noble ſoldiers name.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="38" facs="tcp:5715:20"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Iſt not an endles ſcandall to our daies</l>
+               <l>(If poſſible our heires can credit it)</l>
+               <l>That th'holy name of PEACE ſo worthy praiſe,</l>
+               <l>Hath been our watch-word for a fault vnfit?</l>
+            </lg>
+            <lg>
+               <l>That the pure Lillie, our owne natiue flower,</l>
+               <l>Hath been an odious obiect in our eyes?</l>
+               <l>That kingly Name, &amp; kings heaun'-ſtabliſht pow<g ref="char:EOLhyphen"/>er,</l>
+               <l>Hath been with vs a marke of trecheries?</l>
+            </lg>
+            <lg>
+               <l>T'haue baniſht hence the godly and the wiſe,</l>
+               <l>Whoſe ſound direction kept the State fro<g ref="char:cmbAbbrStroke">̄</g> danger,</l>
+               <l>Yea, made their bodies bloody ſacrifice?</l>
+            </lg>
+            <lg>
+               <l>And (to conclude) ſeeking to ſerue a ſtranger,</l>
+               <l>T'haue flab'd our own (but O Muſe keep that in,</l>
+               <l>The fault's ſo foule, to ſpeake it were a ſinne.)</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="39" facs="tcp:5715:20"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>I waile not I ſo much warres waſtfull rigours,</l>
+               <l>Nor all thy ruines make me halfe ſo ſorie,</l>
+               <l>As thy loſt honour <hi>(France)</hi> which moſt disfigures,</l>
+               <l>Looſing thy loyaltie, thy natiue glorie.</l>
+            </lg>
+            <lg>
+               <l>From <hi>Moores</hi> to <hi>Moſcouites</hi> (O curſed change!)</l>
+               <l>The <hi>French</hi> are called, <hi>Faith-les Parricides:</hi>
+               </l>
+               <l>Th'erſt-moſt-prince-loyall people (ô moſt ſtra<g ref="char:cmbAbbrStroke">̄</g>ge!)</l>
+               <l>Are now Prince-treachers more then all beſides:</l>
+            </lg>
+            <lg>
+               <l>With vs, maſſacres paſſe for Pietie;</l>
+               <l>Theft, rape, &amp; wrong for iuſt-attaind poſſeſſions;</l>
+               <l>Reuolt for Merit, Rage for Equitie:</l>
+            </lg>
+            <lg>
+               <l>Alas, muſt we needs borrow the tranſgreſſions</l>
+               <l>And imperfections of all other nations,</l>
+               <l>Earſt onely blamed for inconſtant faſhions?</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="40" facs="tcp:5715:21"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Not without reaſon hath it oft been ſpoken,</l>
+               <l>That through faire concord little things augme<g ref="char:cmbAbbrStroke">̄</g>t,</l>
+               <l>And (oppoſite) that mightieſt things are broken</l>
+               <l>Through th'vgly diſcord of the diſcontent</l>
+            </lg>
+            <lg>
+               <l>When many tunes doe ſweetly ſymphonize</l>
+               <l>It conquers hearts &amp; kindly them compound;</l>
+               <l>When many hearts doe gently ſympathize</l>
+               <l>In ſacred friendſhip, there all bliſſe abounds.</l>
+            </lg>
+            <lg>
+               <l>Alas, if longer we deuide this Realme,</l>
+               <l>Looſing to euery Partizan a part;</l>
+               <l>Farewell our Lillies and our Diadem.</l>
+            </lg>
+            <lg>
+               <l>For though it ſeeme to breath now ſome what peart,</l>
+               <l>Our ſinnes I feare will worke worſe after-claps,</l>
+               <l>And there's moſt danger in are-relaps.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="41" facs="tcp:5715:21"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>O how I hate theſe partializing wordes,</l>
+               <l>Which ſhow how we are in the faith diuiſed:</l>
+               <l>Iſt poſſible to whet ſo many ſwordes,</l>
+               <l>And light ſuch flames 'mong th'In-one-Chriſt baptizedt</l>
+            </lg>
+            <lg>
+               <l>Chriſtians to Chriſtians to be brute and bloodie,</l>
+               <l>Altars to Altars to be oppoſite,</l>
+               <l>Parting the limmes of ſuch a perfect Bodie,</l>
+               <l>While <hi>Turkes</hi> with <hi>Turkes</hi> doe better farre vnite?</l>
+            </lg>
+            <lg>
+               <l>We our Truth find doubts (whe<g ref="char:cmbAbbrStroke">̄</g>ce follow ſciſmes)</l>
+               <l>They, whoſe fond Law doth all of lies conſiſt,</l>
+               <l>Abide confirm'd in their vaine Paganiſmes.</l>
+            </lg>
+            <lg>
+               <l>One nought beleeues, another what him liſt,</l>
+               <l>One ouer-creeds, another Creeds too-ſhort;</l>
+               <l>Each makes his Church (rather his Sect) a part.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="42" facs="tcp:5715:22"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>Put off (deare <hi>French</hi>) all ſecret grudge and gall,</l>
+               <l>And all keen ſtings of vengeance on all parts:</l>
+               <l>For if you would haue PEACE proclaim'd to all,</l>
+               <l>It muſt be firſt faire printed in your harts.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Henry,</hi> the mildeſt of all Conquerers,</l>
+               <l>(Your perfect glaſſe for Princely clemencie)</l>
+               <l>He, to appeaſe and calme the ſtate from iarres,</l>
+               <l>For his friends ſake hath ſau'de his enemie.</l>
+            </lg>
+            <lg>
+               <l>Let's all be <hi>French,</hi> all ſubiects to one Lord;</l>
+               <l>Let <hi>Fraunce</hi> from henceforth be one onely ſtate;</l>
+               <l>Let's all (for Gods ſake) be of one accord:</l>
+            </lg>
+            <lg>
+               <l>So (through true zeale Chriſts praiſe to propagate)</l>
+               <l>May the moſt Chriſtian King with proſperous power</l>
+               <l>On <hi>Sion</hi> walls be-plant our Lillie-flower.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="43" facs="tcp:5715:22"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>O Chriſtian corſiue! That the <hi>Mahomite</hi>
+               </l>
+               <l>With hundred thouſands in <hi>Vienna</hi> Plaine,</l>
+               <l>His Mooned ſtandards hath already pight,</l>
+               <l>Preſt to ioyne <hi>Auſtrich</hi> to his <hi>Thracian</hi> raigne:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Malth, Corfu, Candie,</hi> his proud threats diſdaine;</l>
+               <l>And all our <hi>Europe</hi> trembles in diſinay;</l>
+               <l>While ſtriuing Chriſtians by each other ſlaine,</l>
+               <l>Each other weak'ning, make him eaſie way.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Rhodes, Belgrade, Cyprus,</hi> &amp; the Realmes of <hi>Greece,</hi>
+               </l>
+               <l>Thral'd to his barbarous yoke, yet freſh-declare,</l>
+               <l>That while two ſtriue a third obtaines the fleece.</l>
+            </lg>
+            <lg>
+               <l>Though name of Chriſtian be a title faire,</l>
+               <l>If but for Earth they all this while haue ſtriu'n,</l>
+               <l>They may haue Earth, but others ſhal haue heau'n.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="44" facs="tcp:5715:23"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>May I not one day ſee in <hi>France</hi> againe</l>
+               <l>Some new <hi>Martellus,</hi> full of ſtout actiuitie,</l>
+               <l>To ſnatch the ſcepter from the <hi>Saracen,</hi>
+               </l>
+               <l>That holds the Holy Land in ſtrait captiuity?</l>
+            </lg>
+            <lg>
+               <l>May I not ſee the ſelfe-weale-wounding launce</l>
+               <l>Of our braue bloods (earſt one another goring)</l>
+               <l>Turn'd with more valour on the <hi>Muſulmans,</hi>
+               </l>
+               <l>A higher pitch of happie proweſſe ſoaring?</l>
+            </lg>
+            <lg>
+               <l>But who (deare <hi>Fraunce</hi>) of all thy men-at-armes</l>
+               <l>Shall ſo farre hence renew thine ancient Laurels?</l>
+               <l>Sith here they plot thine and their propher harms,</l>
+            </lg>
+            <lg>
+               <l>I rather feare that (through theſe fatall quarrels)</l>
+               <l>That hate-Chriſt Tyrant will in time become</l>
+               <l>The Lord and Soueraigne of all Chriſtendome.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb n="45" facs="tcp:5715:23"/>
+            <head>SONNET.</head>
+            <lg>
+               <l>'Mid all theſe miſchiefes while the frend-foe ſtra<g ref="char:cmbAbbrStroke">̄</g>gers</l>
+               <l>With vs, againſt vs, had intelligence;</l>
+               <l>
+                  <hi>Henry</hi> our King, our father, voides our dangers,</l>
+               <l>And (O heau'ns wonder) pla<g ref="char:cmbAbbrStroke">̄</g>teth PEACE in <hi>France.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thou Iudge that ſitt'ſt on the ſupernall Throne,</l>
+               <l>O quench thy furie, keepe vs from hoſtilitie,</l>
+               <l>With eyes of mercie looke thou ſtill vpon</l>
+               <l>Our PEACE, and found it on a firme ſtabilitie:</l>
+            </lg>
+            <lg>
+               <l>Sith in deſpight of diſcord, thou alone,</l>
+               <l>Inward and outward haſt thus ſalu'd vs (Lord)</l>
+               <l>Keepe ſtill our <hi>France,</hi> (or rather Lord thine own)</l>
+            </lg>
+            <lg>
+               <l>Let Princes loue, and liue in iuſt accord:</l>
+               <l>Diſarme them (Lord) or if armes buſie them,</l>
+               <l>Be it alone for thy <hi>Ieruſalem.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="dialogue">
+            <pb n="46" facs="tcp:5715:24"/>
+            <head>A Dialogue vpon the Troubles paſt: <hi>BETWEENE HERACLITVS</hi> and the laughing Philo<g ref="char:EOLhyphen"/>ſophers.</head>
+            <sp>
+               <pb n="47" facs="tcp:5715:24"/>
+               <speaker>Heraclitus.</speaker>
+               <l>A Las, thou laugh'ſt, perhaps not feeling well</l>
+               <l>The painfull torments of this mortall hell:</l>
+               <l>Ah canſt thou teare-les in this iron Age,</l>
+               <l>See men maſſacred, monſters borne to rage?</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>Ha, but why weep'ſt thou? wherefore in this ſort</l>
+               <l>Doeſt thou lament amid this merrie ſport</l>
+               <l>Ha, canſt thou chooſe but laugh to ſee the ſtate</l>
+               <l>Of mens now-ſollies, and the freakes of fate?</l>
+            </sp>
+            <sp>
+               <speaker>Heraclitus.</speaker>
+               <l>He hath no heart that melts not all in teares,</l>
+               <l>To ſee the treaſons, murders, maſſacres,</l>
+               <l>Sackes, ſacriledges, loſſes, and alarmes</l>
+               <l>Of thoſe that periſh by their proper armes.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>Who all-diſmayed, ſwoundeth ſoddainly</l>
+               <l>To heare or ſee ſome fained Tragedie</l>
+               <l>held in theſe dayes on euery ſtage as common,</l>
+               <l>Is but a heart-les man, or but a woman.</l>
+            </sp>
+            <sp>
+               <pb n="48" facs="tcp:5715:25"/>
+               <speaker>Heraclitus.</speaker>
+               <l>O would to God our Countries tragicke ruth</l>
+               <l>Were but a fable, no effected truth:</l>
+               <l>My ſoule then ſhould not ſigh to angry heau'n,</l>
+               <l>Nor for her plagues my tender heart be riu'n.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>I take the world to be but as a ſtage,</l>
+               <l>Where not-maskt men dee play their perſonage.</l>
+               <l>'Tis but a mummerie, and a pleaſant ſhow,</l>
+               <l>Sith ouer all ſtrange vanities doe flow.</l>
+            </sp>
+            <sp>
+               <speaker>Heraclitus.</speaker>
+               <l>Thoſe vanities I haue in deteſtation,</l>
+               <l>As curſed cauſes of Gods indignation:</l>
+               <l>Which makes me alwayes weepe, ſith on the earth</l>
+               <l>I ſee no obiect for the meaneſt mirth.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus</speaker>
+               <l>Thus from one ſubiect ſundrie ſequels ſpring,</l>
+               <l>As diuerſly our wits conceiue a thing.</l>
+               <l>I laught to ſee thee weepe; thou weep'ſt to ſee</l>
+               <l>Me laugh ſo much, which more afflicteth thee.</l>
+            </sp>
+            <sp>
+               <pb n="49" facs="tcp:5715:25"/>
+               <speaker>Heraclitus.</speaker>
+               <l>Laugh while thou liſt at mortall miſeries,</l>
+               <l>I cannot chooſe but euen weepe out mine eyes,</l>
+               <l>Finding more cauſe for teares in bloodie ſlaughter,</l>
+               <l>Then for thy ſence-lesill-beſeeming laughter.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>Melt thee, diſtill thee, turne to waxe or ſnow;</l>
+               <l>Make ſad thy geſture, turne thy voice to wor;</l>
+               <l>I cannot weepe, except ſometimes it hap</l>
+               <l>Through laughing much mine eyes let fall a drop.</l>
+            </sp>
+            <sp>
+               <speaker>Heraclitus.</speaker>
+               <l>I weepe to ſee thus euery thing confuſed,</l>
+               <l>Order diſordred, and the Lawes abuſed;</l>
+               <l>Iuſtice reuerſt, and Pollicie peruerted;</l>
+               <l>And this ſicke ſtate neare vtterly ſubuerted.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>I laugh to ſee how Fortune, like a ball,</l>
+               <l>Playes with the Globe of this inconſtant All:</l>
+               <l>How ſhee degradeth theſe, and graceth thoſe;</l>
+               <l>How whom ſhe lifts-vp, down againe ſhe throwes.</l>
+            </sp>
+            <sp>
+               <pb n="50" facs="tcp:5715:26"/>
+               <speaker>Heraclitus.</speaker>
+               <l>I raine downe Riuers, when againſt their King</l>
+               <l>Cities rebell through ſubiects bandying:</l>
+               <l>When Colledges through armes are reft of Art:</l>
+               <l>When euery Countie kingdomes it apart.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>I burſt with laughter, when confounding ſtate,</l>
+               <l>I ſee thoſe rebels hunt their Magiſtrate.</l>
+               <l>When I heare Porters prate of State-deſignes,</l>
+               <l>And make all common, as in new-found <hi>Indes.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Heraclitus.</speaker>
+               <l>I weepe to ſee Gods glory made a vaile</l>
+               <l>To couer who his glorie moſt aſſaile:</l>
+               <l>That ſacred Faith is made a maske for ſinne,</l>
+               <l>And men runne headlong to deſtructions ginne.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>I laugh with all my heart at the transforming</l>
+               <l>Of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ggling <hi>Proteis,</hi> to all timaes conforming,</l>
+               <l>But moſt I laught haue ſeene the world ſo mad</l>
+               <l>To ſtarue and die, when thoſe damn'd <hi>Atheiſts</hi> bad.</l>
+            </sp>
+            <sp>
+               <pb n="51" facs="tcp:5715:26"/>
+               <speaker>Heraclitus.</speaker>
+               <l>I weepe (alas) to ſee the people weepe,</l>
+               <l>Oppreſt with reſt-les waight in dangers deepe;</l>
+               <l>Crying for PEACE, but yet not like to get-her,</l>
+               <l>Yet her condition is not greatly better.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>I laugh to ſee all cauſe of laughter gone, (thy mone:</l>
+               <l>Through thoſe which (erſt thou ſaid'ſt) haue cauſ'd</l>
+               <l>Noting th'old guiſe I laugh at al their new;</l>
+               <l>I laugh at more, but dare not tell it you.</l>
+            </sp>
+            <sp>
+               <speaker>Heraclitus.</speaker>
+               <l>Some ſorrowes alſo I in ſilence keepe,</l>
+               <l>But in the deſart, all my woes ſhall weepe,</l>
+               <l>And there perhaps the Rocks will helpe me then;</l>
+               <l>For in theſe dayes they are more mild then men.</l>
+            </sp>
+            <sp>
+               <speaker>Democritus.</speaker>
+               <l>I'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e dwell in Cities (as my <hi>Genius</hi> guides)</l>
+               <l>To laugh my fill, for ſmiling PEACE prouides</l>
+               <l>Such plenteous ſtore of laughing ſtuffe to fill me,</l>
+               <l>That ſtill I'le laugh, vnles that laughing kill me</l>
+            </sp>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="ode">
+            <pb n="52" facs="tcp:5715:27"/>
+            <head>AN ODE OF THE loue and beauties of ASTREA.</head>
+            <head type="sub">To the moſt match-les, faire, and vertuous, M. M. H.</head>
+            <div type="part">
+               <head>TETRASTICON.</head>
+               <l>Thou for vvhoſe ſake my freedome I forſake,</l>
+               <l>VVho murdring me, dooſt yet maintaine my life:</l>
+               <l>Here vnder PEACE, thy beauties type I make,</l>
+               <l>Faire vvar-like Nymph that keep'ſt me ſtill in ſtrife.</l>
+            </div>
+            <div type="part">
+               <pb n="53" facs="tcp:5715:27"/>
+               <head>The Loue and Beauties of ASTREA.</head>
+               <lg>
+                  <l>Sacred PEACE, if I approoue thee,</l>
+                  <l>If more then my life I loue thee,</l>
+                  <l>'Tis not for thy beauteous eyes:</l>
+                  <l>Though the brighteſt lampe in skies</l>
+                  <l>In his higheſt Sommer ſhine</l>
+                  <l>Seemes a ſparke compar'd with thine,</l>
+                  <l>With thy paire of ſelfe-like Sunnes,</l>
+                  <l>Paſt all els compariſons.</l>
+               </lg>
+               <lg>
+                  <l>'Tis not (deare) the dewes Ambroſiall</l>
+                  <l>Of thoſe pretie lips ſo Roſiall</l>
+                  <l>Make me humble at thy feet.</l>
+                  <l>Though the pureſt houſe ſweet</l>
+                  <l>That the Muſes birds doe bring</l>
+                  <l>To Mount <hi>Hybla</hi> euery ſpring,</l>
+                  <l>Nothing neare ſo pleaſant is</l>
+                  <l>As thy liuely louing kiſſe.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="54" facs="tcp:5715:28"/>
+               <head>ASTREA.</head>
+               <lg>
+                  <l>'Tis not (Beauties Empereſſe)</l>
+                  <l>Th'amber circlets of thy treſſe,</l>
+                  <l>Curled by the wanton windes,</l>
+                  <l>That ſo faſt my freedome bindes:</l>
+                  <l>Though the precious glittering ſand</l>
+                  <l>Richly ſtrow'd on <hi>Tagus</hi> ſtrand;</l>
+                  <l>Nor the graines <hi>Pactolus</hi> told</l>
+                  <l>Neuer were ſo fine a gold.</l>
+               </lg>
+               <lg>
+                  <l>'Tis not for the poliſh't rowes</l>
+                  <l>Of thoſe Rocks whence Prudence flowes</l>
+                  <l>That I ſtill my ſuite purſue;</l>
+                  <l>Though that in thoſe Countries new</l>
+                  <l>In the Orient lately found</l>
+                  <l>(Which in precious gemmes abound)</l>
+                  <l>'Mong all baytes of Auarice</l>
+                  <l>Be no Pearles of ſuch a price.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="55" facs="tcp:5715:28"/>
+               <head>ASTREA.</head>
+               <lg>
+                  <l>'Tis not (Sweet) thine yuorie necke</l>
+                  <l>Makes me worſhip at thy becke;</l>
+                  <l>Nor that prettie double Hill</l>
+                  <l>Of thy boſome panting ſtill:</l>
+                  <l>Though no faireſt <hi>Laedas</hi> ſwanne,</l>
+                  <l>Nor no ſleekeſt marble can</l>
+                  <l>Be ſo ſmooth or white in ſhow,</l>
+                  <l>As thy Lillies, and thy Snow.</l>
+               </lg>
+               <lg>
+                  <l>'Tis not (O my Paradice)</l>
+                  <l>Thy front euener than the yee,</l>
+                  <l>That my yeelding heart doth tye</l>
+                  <l>With his mild-ſweet Maieſtie:</l>
+                  <l>Though the ſiluer Moone be faine</l>
+                  <l>Still by night to mount her waine,</l>
+                  <l>Fearing to ſuſtaine diſgrace</l>
+                  <l>If by day ſhee meet thy face.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="56" facs="tcp:5715:29"/>
+               <head>ASTREA.</head>
+               <lg>
+                  <l>'Tis not that ſoft Sattin limme,</l>
+                  <l>With blew trailes enameld trimme,</l>
+                  <l>Thy hand, handle of perfection,</l>
+                  <l>Keepes my thoughts in thy ſubiection:</l>
+                  <l>Though it haue ſuch curious cunning,</l>
+                  <l>Gentle touch, and nimble running,</l>
+                  <l>That on Lute to heare it warble,</l>
+                  <l>Would mooue rocks and rauiſh marble,</l>
+               </lg>
+               <lg>
+                  <l>'Tis not all the reſt beſide,</l>
+                  <l>Which thy modeſt vaile doth hide</l>
+                  <l>From mine eyes (ah too iniurious)</l>
+                  <l>Makes me of thy loue ſo curious:</l>
+                  <l>Though <hi>Diana</hi> being bare,</l>
+                  <l>Nor <hi>Leucothoe</hi> paſſing rare,</l>
+                  <l>In the Chriſtall-flowing ſprings</l>
+                  <l>Neuer bath'd ſo beauteous things.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="57" facs="tcp:5715:29"/>
+               <head>ASTREA.</head>
+               <lg>
+                  <l>What then (O diuineſt Dame)</l>
+                  <l>Fires my ſoule with burning flame,</l>
+                  <l>If thine eyes be not the matches</l>
+                  <l>Whence my kindling taper catches?</l>
+                  <l>And what <hi>Nectar</hi> from aboue</l>
+                  <l>Feeds and feaſts my ioyes (my Loue)</l>
+                  <l>If they taſt not of the dainties</l>
+                  <l>Of thy ſweet lippes ſugred plenties?</l>
+               </lg>
+               <lg>
+                  <l>What fell heat of couetize</l>
+                  <l>In my feeble boſome fries;</l>
+                  <l>If my heart no reckoning hold</l>
+                  <l>Of thy treſſes pureſt gold?</l>
+                  <l>What ineſtimable treaſure</l>
+                  <l>Can procure me greater pleaſure</l>
+                  <l>Then thoſe Orient Pearles I ſee</l>
+                  <l>When thou daign'ſt to ſmile on mee?</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="58" facs="tcp:5715:30"/>
+               <head>ASTREA.</head>
+               <lg>
+                  <l>What? what fruit of life delights</l>
+                  <l>My delicious appetites,</l>
+                  <l>If I ouer-paſſe the meſſe</l>
+                  <l>Of thoſe apples of thy breſts?</l>
+                  <l>What freſh buddes of ſcarlet Roſe</l>
+                  <l>Are more fragrant ſweet than thoſe</l>
+                  <l>Then thoſe twins thy ſtrawberry teates,</l>
+                  <l>Curled-purled cherrielets?</l>
+               </lg>
+               <lg>
+                  <l>What (to finiſh) fairer limme,</l>
+                  <l>Or what member yet more trimme,</l>
+                  <l>Or what other rarer ſubiect</l>
+                  <l>Makes me make thee all mine obiect?</l>
+                  <l>If it be not all the reſt</l>
+                  <l>By thy modeſt vaile ſuppreſt</l>
+                  <l>(Rather which an enuious cloud</l>
+                  <l>From my ſight doth cloſely ſhroud.)</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="59" facs="tcp:5715:30"/>
+               <head>ASTREA.</head>
+               <lg>
+                  <l>Ah 't's a thing farre more diuine,</l>
+                  <l>'Tis that Peere-les ſoule of thine,</l>
+                  <l>Maſter-peece of heau'ns beſt Art,</l>
+                  <l>Made to maze each mortall hart.</l>
+                  <l>'Tis thine all-admired wit,</l>
+                  <l>Thy ſweet grace and geſture fit,</l>
+                  <l>Thy mild pleaſing curteſie</l>
+                  <l>Makes thee triumph ouer me.</l>
+               </lg>
+               <lg>
+                  <l>But, for thy faire ſoules reſpect,</l>
+                  <l>I loue twinne-flames that reflect</l>
+                  <l>From thy bright tra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lucent eyes.</l>
+                  <l>And thy yellow lockes likewiſe.</l>
+                  <l>And thoſe Orient Pearlie Rockes</l>
+                  <l>Which thy lightning ſmile vn-lockes.</l>
+                  <l>And the <hi>Nectar</hi>-paſſing bliſſes</l>
+                  <l>Of thy bony-ſweeter kiſſes.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="60" facs="tcp:5715:31"/>
+               <head>ASTREA.</head>
+               <lg>
+                  <l>I loue thy freſh roſie cheeke</l>
+                  <l>Bluſhing moſt <hi>Aurora</hi>-like,</l>
+                  <l>And the white-exceeding skin</l>
+                  <l>Of thy neck and dimpled chin,</l>
+                  <l>And thoſe yuorie-marble mounts</l>
+                  <l>Either, neither, both at once:</l>
+                  <l>For I dare not touch to know</l>
+                  <l>If they be of fleſh or no.</l>
+               </lg>
+               <lg>
+                  <l>I loue thy pure Lillie hand</l>
+                  <l>Soft and ſmooth, and ſlender; and</l>
+                  <l>Thoſe fiue nimble brethren ſmall</l>
+                  <l>Arm'd with Pearle-ſhel helmets all.</l>
+                  <l>I loue alſo all the reſt</l>
+                  <l>By thy modeſt vaile ſuppreſt</l>
+                  <l>(Rather which an enuious cloud</l>
+                  <l>Fro<g ref="char:cmbAbbrStroke">̄</g> my longing ſight doth ſhroud.)</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="61" facs="tcp:5715:31"/>
+               <head>ASTREA.</head>
+               <lg>
+                  <l>Sweet mouth that ſend'ſt a muskie roſed breath;</l>
+                  <l>Fountaine of <hi>Nectar,</hi> and delightfull Balme;</l>
+                  <l>Eies cloudy-clere, ſmile-frowning, ſtormy-calm;</l>
+                  <l>Whoſe euery glance darts me a liuing-death:</l>
+               </lg>
+               <lg>
+                  <l>Browes bending quaintly, your round Ebene arkes:</l>
+                  <l>Smile, that then <hi>Venus</hi> ſooner <hi>Mars</hi> beſots;</l>
+                  <l>Lockes more then golden, curl'd in curious knots,</l>
+                  <l>Where in cloſe ambuſh wanton <hi>Cupid</hi> lurkes:</l>
+               </lg>
+               <lg>
+                  <l>Grace Angel-like; faire forehead ſmooth and high;</l>
+                  <l>Pure white, that dimm'ſt the Lillies of the vale;</l>
+                  <l>Vermilion roſe, that mak'ſt <hi>Aurora</hi> pale:</l>
+               </lg>
+               <lg>
+                  <l>Rare ſpirit, to rule this beauteous Emperie:</l>
+                  <l>If in your force diuine effects I view,</l>
+                  <l>Ah who can blame me if I worſhip you?</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="62" facs="tcp:5715:32"/>
+               <head>TO ASTREA.</head>
+               <lg>
+                  <l>Thou, whoſe ſweet eloque<g ref="char:cmbAbbrStroke">̄</g>ce doth make me mute;</l>
+                  <l>Whoſe ſight doth blind me; &amp; whoſe nimblenes</l>
+                  <l>Of feet in daunce, and fingers on the Lute,</l>
+                  <l>In deepe amazes makes me motion-les.</l>
+               </lg>
+               <lg>
+                  <l>Whoſe only preſence from my ſelfe abſents me,</l>
+                  <l>Whoſe pleaſant humours, make me paſſionate;</l>
+                  <l>Whoſe ſober mood, my follies repreſents me:</l>
+                  <l>Whoſe graue-mild graces make me emulate.</l>
+               </lg>
+               <lg>
+                  <l>My heart, through whome my hart is none of mine:</l>
+                  <l>My All, through whome, I nothing doe poſſeſſe</l>
+                  <l>Saue thine <hi>Idéa,</hi> glorious and diuine.</l>
+               </lg>
+               <lg>
+                  <l>O thou my Peace-like warre, &amp; warlike PEACE,</l>
+                  <l>So much the wou<g ref="char:cmbAbbrStroke">̄</g>ds that thou haſt giue<g ref="char:cmbAbbrStroke">̄</g> me, pleaſe;</l>
+                  <l>That tis my beſt caſe neuer to haue caſe.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="epigrams">
+            <head>Epigrammes upon Warre and Peace.</head>
+            <div type="epigram">
+               <pb n="63" facs="tcp:5715:32"/>
+               <head>Vpon the League.</head>
+               <lg>
+                  <l>
+                     <hi>FRance,</hi> without cauſe thou dooſt complaine</l>
+                  <l>Againſt the League for wronging thee,</l>
+                  <l>Sh'hath made thee large amends againe</l>
+                  <l>With more than common vſurie.</l>
+                  <l>For, for thy one King which ſhe ſlew,</l>
+                  <l>Sh'hath giuen thee now a thouſand new.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Vpon the taking of Paris.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>When <hi>Paris</hi> happily was wonne</l>
+                  <l>With ſmall or no endangering,</l>
+                  <l>Such ſodaine common ioy begunne,</l>
+                  <l>That one would ſay (t'haue ſeene the thing)</l>
+                  <l>Th'King tooke not <hi>Paris, Paris</hi> tooke the King.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="64" facs="tcp:5715:33"/>
+                  <head>2</head>
+                  <l>O rareſt ſight of ioyfull woe,</l>
+                  <l>Adorned with delightfull dread;</l>
+                  <l>When <hi>Henry</hi> with one ſelfe-ſame ſhow,</l>
+                  <l>Conquer'd at once and triumphed!</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Sith thee from danger and diſtreſſe to free,</l>
+                  <l>The King thus tooke, or rather entred thee:</l>
+                  <l>
+                     <hi>Paris,</hi> it was not in ſterne <hi>Mars</hi> his moneth,</l>
+                  <l>But in the month that mild ASTREA owneth.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Vpon the fall of the Millars-bridge.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>The Millars in the riuer drown'd,</l>
+                  <l>While <hi>Paris</hi> was beleagerd round;</l>
+                  <l>To die were all reſolu'd in mind</l>
+                  <l>Becauſe they had no more to grind.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="65" facs="tcp:5715:33"/>
+                  <head>2</head>
+                  <l>Then was their fitteſt time to die</l>
+                  <l>Becauſe they might intend it beſt:</l>
+                  <l>But their intent was contrarie,</l>
+                  <l>Becauſe they then liu'd ſo at reſt.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>As after long ſharpe famine, ſome (forlorne)</l>
+                  <l>Of ſurfet die, their greedines is ſuch:</l>
+                  <l>This Mill-bridge hauing faſted long from corne</l>
+                  <l>Is drow'nd perhaps for hauing ground too-much.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Vpon the recouery of Amiens.</head>
+               <lg>
+                  <l>I know not which may ſeeme moſt admirable;</l>
+                  <l>To take or retake ſuch a Citties force:</l>
+                  <l>But yet I know which is moſt honorable,</l>
+                  <l>To take by fraud, or to retake by force.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="66" facs="tcp:5715:34"/>
+                  <head>2</head>
+                  <l>Each where they ſing a thouſand wayes</l>
+                  <l>The glorie of this enterpriſe:</l>
+                  <l>But yet of all their merrie layes,</l>
+                  <l>The beſt is ſtill in the Repriſe.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>
+                     <hi>Hernand</hi> was happie by this Enterpriſe</l>
+                  <l>To take ſo ſoone our <hi>Amiens</hi> without blow:</l>
+                  <l>More happie yet, to die ere the Repriſe,</l>
+                  <l>Els had he dy'de for ſhame to leaue it ſo.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Vpon the Reduction of Nantes.</head>
+               <l>
+                  <hi>Nantes</hi> would not yeeld ſo ſoone (they ſaid)</l>
+               <l>Nor be recouered ſo good cheape</l>
+               <l>And yet for all defence it made,</l>
+               <l>'Twas made to make the <hi>Britton</hi> leape.</l>
+            </div>
+            <div type="epigram">
+               <pb n="67" facs="tcp:5715:34"/>
+               <head>Vpon PEACE.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Souldiers late preſt, are now ſuppreſt;</l>
+                  <l>Croſt and caſſierd from further pay,</l>
+                  <l>Yet will they in this time of reſt,</l>
+                  <l>Take vp their lendings by the Way.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>This PEACE (it ſeemeth) doth not ſound</l>
+                  <l>To all the world, for euery where</l>
+                  <l>More Sergeants now doe goe the Round,</l>
+                  <l>Then Souldiers carſt accuſtom'd were.</l>
+               </lg>
+            </div>
+            <div type="epigram">
+               <head>Vpon Captaine Coblar.</head>
+               <lg>
+                  <l>A merry Coblar left the warres,</l>
+                  <l>To turne vnto his occupation:</l>
+                  <l>And asked by his cuſtomers</l>
+                  <l>The reaſon of his alteration:</l>
+                  <l>'Thath pleaſd (quoth he) the King t'ordaine</l>
+                  <l>That each his Office take againe.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="epitaphs">
+            <head>Epitaphes.</head>
+            <div type="epitaph">
+               <pb n="68" facs="tcp:5715:35"/>
+               <head>Vpon Warre.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>Here, vnder <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> huge heape of ſtones</l>
+                  <l>Lately enterr'd, lyes cruell WARRE:</l>
+                  <l>Pray God long reſt her ſoule and bones:</l>
+                  <l>Yet there is nothing worſe for her.</l>
+               </lg>
+            </div>
+            <div type="epitaph">
+               <head>Vpon Rowland Rob-Church.</head>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Here lyeth <hi>Rowland,</hi> that was lately ſlaine,</l>
+                  <l>In robbing of a wealthie Chappell, ſpyde:</l>
+                  <l>Yet I beleeue he doth in heau'n remaine,</l>
+                  <l>Sith onely for the Churches Good he dy'de.</l>
+               </lg>
+            </div>
+            <div type="epitaph">
+               <pb n="69" facs="tcp:5715:35"/>
+               <head>Vpon Captaine Catch.</head>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Here vnder, Captaine CATCH is laid,</l>
+                  <l>Who ſixe times chang'd from ſide to ſide,</l>
+                  <l>Of neither ſide (it ſeem'd) afraid:</l>
+                  <l>He wore a white ſcarfe when he dy'de,</l>
+                  <l>Yet ſome ſuſpect, and ſo doe I,</l>
+                  <l>For his inconſtance ſhowne before,</l>
+                  <l>That to the Black-band he did flie.</l>
+                  <l>But now he can reuolt no more.</l>
+               </lg>
+            </div>
+            <div type="epitaph">
+               <pb n="70" facs="tcp:5715:36" rendition="simple:additions"/>
+               <head>Vpon Sir Nequam Neuter.</head>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Here lyeth he, who the more ſafe to pray</l>
+                  <l>On both ſides; Neuter, betweene both abode:</l>
+                  <l>Whither his Soule is gone, I can not ſay,</l>
+                  <l>Sith he was nor for Deuill, nor for God.</l>
+               </lg>
+               <closer>Pax omnibus vna.</closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:5715:36"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
